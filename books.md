@@ -15,7 +15,7 @@
 13. [Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
 14. [More Effective C++](http://www.aristeia.com/books.html) by Scott Meyers
 15. [CODE](http://www.charlespetzold.com/code/) by Charles Petzold
-16. [Programming Pearls](http://www.cs.bell-labs.com/cm/cs/pearls/) by Jon Bentley
+16. [Programming Pearls](https://www.amazon.ca/Programming-Pearls-Joe-Bentley/dp/8177588583) by Jon Bentley
 17. [Working Effectively with Legacy Code](http://www.informit.com/store/working-effectively-with-legacy-code-9780131177055?aid=15d186bd-1678-45e9-8ad3-fe53713e811b) by Michael C. Feathers
 18. [Peopleware](http://www.amazon.com/Peopleware-Productive-Projects-Second-Edition/dp/0932633439) by Demarco and Lister
 19. [Coders at Work](http://www.codersatwork.com/) by Peter Seibel
@@ -28,7 +28,7 @@
 26. [The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140) by Alan Cooper
 27. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) by Eric S. Raymond
 28. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
-29. [Practices of an Agile Developer](http://pragprog.com/book/pad/practices-of-an-agile-developer) by Venkat Subramaniam and Andy Hunt
+29. [Practices of an Agile Developer](https://pragprog.com/titles/pad/practices-of-an-agile-developer/) by Venkat Subramaniam and Andy Hunt
 30. [Don't Make Me Think](http://www.sensible.com/dmmt.html) by 
 31. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
 32. [Domain Driven Designs](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
@@ -36,11 +36,11 @@
 34. [Modern C++ Design](http://erdani.com/index.php/books/modern-c-design/) by Andrei Alexandrescu
 35. [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) by Joel Spolsky
 36. [The Practice of Programming](http://cm.bell-labs.com/cm/cs/tpop/) by Kernighan and Pike
-37. [Pragmatic Thinking and Learning: Refactor Your Wetware](http://pragprog.com/press_releases/pragmatic-thinking-and-learning-refactor-your-wetware) by Andy Hunt
+37. [Pragmatic Thinking and Learning: Refactor Your Wetware](https://www.amazon.ca/Pragmatic-Thinking-Learning-Refactor-Wetware/dp/1934356050) by Andy Hunt
 38. [Software Estimation: Demystifying the Black Art](http://www.stevemcconnell.com/est.htm) by Steve McConnel
-39. [The Passionate Programmer](http://pragprog.com/book/cfcar2/the-passionate-programmer) by Chad Fowler
+39. [The Passionate Programmer](https://pragprog.com/titles/cfcar2/the-passionate-programmer-2nd-edition/) by Chad Fowler
 40. [Hackers: Heroes of the Computer Revolution](http://www.gutenberg.org/ebooks/729) by  Steven Levy (free ebook)
-41. [Algorithms + Data Structures = Programs](http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
+41. [Algorithms + Data Structures = Programs](https://web.archive.org/web/20191211063215/http://www.ethoberon.ethz.ch/WirthPubl/AD.pdf) by Niklaus Wirth (free PDF)
 42. [Writing Solid Code](http://c2.com/cgi/wiki?WritingSolidCode) by Steve Maguire
 43. [JavaScript - The Good Parts](http://javascript.crockford.com/) by Douglas Crockford
 44. [Getting Real](https://gettingreal.37signals.com/) by 37 Signals (free PDF)
@@ -60,7 +60,7 @@
 58. [Growing Object-Oriented Software, Guided by Tests](http://www.growing-object-oriented-software.com/) by Steve Freeman and Nat Pryce
 59. [Framework Design Guidelines](http://www.amazon.com/Framework-Design-Guidelines-Conventions-Libraries/dp/0321545613) by Brad Abrams
 60. [Object Thinking](http://www.microsoft.com/learning/en-us/book.aspx?ID=6820) by Dr. David West
-61. [Advanced Programming in the UNIX Environment](http://www.cs.stevens.edu/~jschauma/810D/) by W. Richard Stevens
+61. [Advanced Programming in the UNIX Environment](https://www.amazon.ca/Advanced-Programming-Environment-Richard-Stevens/dp/0201563177) by W. Richard Stevens
 62. [Hackers and Painters: Big Ideas from the Computer Age](http://www.paulgraham.com/hackpaint.html) by Paul Graham
 63. [The Soul of a New Machine](http://www.tracykidder.com/books/soul/) by Tracy Kidder
 64. [CLR via C#](http://shop.oreilly.com/product/9780735627048.do) by Jeffrey Richter
@@ -74,14 +74,14 @@
 72. [Object-Oriented Analysis and Design with Applications](http://www.amazon.com/Object-Oriented-Analysis-Design-Applications-Edition/dp/020189551X) by Grady Booch
 73. [Computability](http://www.amazon.com/Computability-Introduction-Recursive-Function-Theory/dp/0521294657) by N. J. Cutland
 74. [Masterminds of Programming](http://www.amazon.com/Masterminds-Programming-Conversations-Creators-Languages/dp/0596515170) by Federico Biancuzzi
-75. [The Tao Te Ching](http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
+75. [The Tao Te Ching](https://web.archive.org/web/20160601090317/http://acc6.its.brooklyn.cuny.edu/~phalsall/texts/taote-v3.html)
 76. [The Productive Programmer](http://nealford.com/books/productiveprogrammer) by Neil Ford
 77. [The Art of Deception](http://www.amazon.com/exec/obidos/tg/detail/-/0764569597) by Kevin Mitnick
 78. [The Career Programmer: Guerilla Tactics for an Imperfect World](http://www.christopherduncan.com/thecareerprogrammer.aspx) by Christopher Duncan
 79. [Paradigms of Artificial Intelligence Programming: Case studies in Common Lisp](http://norvig.com/paip.html) by Peter Norvig (free ebook)
 80. [Masters of Doom](http://www.amazon.com/Masters-Doom-Created-Transformed-Culture/dp/0812972155) by David Kushner
-81. [Pragmatic Unit Testing in C# with NUnit](http://pragprog.com/book/utc2/pragmatic-unit-testing-in-c-with-nunit) by Andy Hunt and Dave Thomas
-82. [How To Solve It](https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) by George Polya (free PDF)
+81. [Pragmatic Unit Testing in C# with NUnit](https://pragprog.com/titles/utc2/pragmatic-unit-testing-in-c-with-nunit-2nd-edition/) by Andy Hunt and Dave Thomas
+82. [How To Solve It](https://web.archive.org/web/20201112041219/https://notendur.hi.is/hei2/teaching/Polya_HowToSolveIt.pdf) by George Polya (free PDF)
 83. [Smalltalk-80: The Language and its Implementation](http://stephane.ducasse.free.fr/FreeBooks/BlueBook/Bluebook.pdf) by Adele Goldberg 
 84. [Writing Secure Code (2nd Edition)](http://www.microsoft.com/learning/en-us/book.aspx?ID=5957) by Michael Howard
 85. [Introduction to Functional Programming](http://www.cs.ox.ac.uk/publications/publication2613-abstract.html) by Richard Bird
