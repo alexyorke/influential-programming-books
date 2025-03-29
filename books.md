@@ -8,7 +8,7 @@
 6. [Design Patterns](http://c2.com/cgi/wiki?DesignPatternsBook) by the Gang of Four
 7. [Refactoring: Improving the Design of Existing Code](http://martinfowler.com/books/refactoring.html) by Martin Fowler
 8. [The Mythical Man Month](http://www.amazon.com/The-Mythical-Man-Month-Engineering-Anniversary/dp/0201835959) by Fred Brooks
-9. [The Art of Computer Programming](http://www-cs-faculty.stanford.edu/~uno/taocp.html) by Donald Knuth
+9. [The Art of Computer Programming](https://web.archive.org/web/20170716132045/http://cs.stanford.edu/~uno/taocp.html) by Donald Knuth
 10. [Compilers: Principles, Techniques and Tools](http://www.amazon.com/Compilers-Principles-Techniques-Tools-Edition/dp/0321486811) by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
 11. [Gödel, Escher, Bach](http://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567) by Douglas Hofstadter
 12. [Clean Code: A Handbook of Agile Software Craftsmanship](http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882) by Robert C. Martin
@@ -23,16 +23,16 @@
 21. [Effective Java 2nd edition](http://www.amazon.com/Effective-Java-Edition-Joshua-Bloch/dp/0321356683) by Joshua Bloch
 22. [Patterns of Enterprise Application Architecture](http://martinfowler.com/books/eaa.html) by Martin Fowler
 23. [The Little Schemer](http://www.ccs.neu.edu/home/matthias/BTLS/) by Matthias Felleisen and Daniel P. Friedman
-24. [The Seasoned Schemer](http://www.ccs.neu.edu/home/matthias/BTSS/) by Matthias Felleisen and Daniel P. Friedman
+24. [The Seasoned Schemer](https://web.archive.org/web/20170826055252/http://www.ccs.neu.edu/home/matthias/BTSS/) by Matthias Felleisen and Daniel P. Friedman
 25. [Why's (Poignant) Guide to Ruby](http://www.rubyinside.com/media/poignant-guide.pdf) by by why the lucky stiff (free PDF)
 26. [The Inmates Are Running The Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity](http://www.amazon.com/The-Inmates-Are-Running-Asylum/dp/0672326140) by Alan Cooper
 27. [The Art of Unix Programming](http://www.catb.org/~esr/writings/taoup/) by Eric S. Raymond
-28. [Test-Driven Development: By Example](http://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
+28. [Test-Driven Development: By Example](https://web.archive.org/web/20161130171946/https://www.eecs.yorku.ca/course_archive/2003-04/W/3311/sectionM/case_studies/money/KentBeck_TDD_byexample.pdf) by Kent Beck (free PDF)
 29. [Practices of an Agile Developer](https://pragprog.com/titles/pad/practices-of-an-agile-developer/) by Venkat Subramaniam and Andy Hunt
 30. [Don't Make Me Think](http://www.sensible.com/dmmt.html) by 
 31. [Agile Software Development, Principles, Patterns, and Practices](http://www.amazon.com/Software-Development-Principles-Patterns-Practices/dp/0135974445) by Robert C. Martin
 32. [Domain Driven Designs](http://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans
-33. [The Design of Everyday Things](http://www.jnd.org/books/the-design-of-everyday-things.html) by Donald Norman
+33. [The Design of Everyday Things](https://jnd.org/the-design-of-everyday-things/) by Donald Norman
 34. [Modern C++ Design](http://erdani.com/index.php/books/modern-c-design/) by Andrei Alexandrescu
 35. [Best Software Writing I](http://joelonsoftware.com/articles/BestSoftwareWriting.html) by Joel Spolsky
 36. [The Practice of Programming](http://cm.bell-labs.com/cm/cs/tpop/) by Kernighan and Pike
@@ -46,7 +46,7 @@
 44. [Getting Real](https://gettingreal.37signals.com/) by 37 Signals (free PDF)
 45. [Foundations of Programming](http://openmymind.net/FoundationsOfProgramming.pdf) by Karl Seguin (free PDF)
 46. [Computer Graphics: Principles and Practice in C (2nd Edition)](http://www.amazon.com/Computer-Graphics-Principles-Practice-Edition/dp/0201848406) by Foley, Dam, Feiner, Hughes
-47. [Thinking in Java](http://www.mindviewinc.com/Books/TIJ4/) by Bruce Eckel
+47. [Thinking in Java](https://web.archive.org/web/20160406161513/https://www.mindviewinc.com/Books/TIJ4/) by Bruce Eckel
 48. [The Elements of Computing Systems](http://www.nand2tetris.org/) by Noam Nisan and Shimon Schocken(free ebook)
 49. [Refactoring to Patterns](http://industriallogic.com/xp/refactoring/) by Joshua Kerievsky
 50. [Modern Operating Systems](http://www.cs.vu.nl/~ast/books/mos2/) by Andrew S. Tanenbaum
